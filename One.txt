@@ -3,3 +3,5 @@ this is first file
 add another file to the folder and commit it 
 
 add some more info 
+
+just add new coommand for dirctly puhs the file 
